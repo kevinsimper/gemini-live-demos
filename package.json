@@ -1,0 +1,9 @@
+{
+  "name": "geminilivedemo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "latest",
+    "wavefile": "latest"
+  }
+}
